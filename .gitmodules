@@ -1,0 +1,3 @@
+[submodule "ProjectB"]
+	path = ProjectB
+	url = git@github.com:levyonatan/ProjectB.git
